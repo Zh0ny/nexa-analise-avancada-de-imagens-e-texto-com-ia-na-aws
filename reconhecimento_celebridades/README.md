@@ -37,9 +37,9 @@ O resultado é salvo na mesma pasta com o sufixo -resultado.jpg.
 
 1️⃣ Clonar o Repositório
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
-
+git clone https://github.com/Zh0ny/nexa-analise-avancada-de-imagens-e-texto-com-ia-na-aws.git
+cd seu-repositorio*
+*Caminho do repositório na máquina.
 
 4️⃣ Configurar Credenciais da AWS
 
